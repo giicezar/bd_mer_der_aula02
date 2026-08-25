@@ -28,7 +28,7 @@
 | Matricula | nota_final | decimal | 4,2 | Nota final do aluno na disciplina |
 
 ## Dados de teste em CSV
-- [Professor.csv](
--
--
--
+- [Professor.csv](professor.csv)
+- [Disciplina.csv](disciplina.csv)
+- [Aluno.csv](aluno.csv)
+- [Matricula.csv](matricula.csv)
